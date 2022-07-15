@@ -29,6 +29,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=msynk.msynk)
 
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
+<a href="https://github.com/msynk/msynk">
+  <img src="https://komarev.com/ghpvc/?username=msynk" alt="profile views" />
+</a>
