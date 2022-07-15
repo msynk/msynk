@@ -3,7 +3,7 @@
 #### 💬 Ask me about 
 - .NET & C#
 - Blazor
-- Typescript & Javascript
+- TypeScript & JavaScript
 
 #### 📅 Hobbies 
 - Programming ❤️
