@@ -2,9 +2,7 @@
 
 follow me:
 
-[twitter](https://twitter.com/SalehYusefnejad)
-
-[linkedin](https://www.linkedin.com/in/msynk/)
+[twitter](https://twitter.com/SalehYusefnejad) [linkedin](https://www.linkedin.com/in/msynk/)
 
 📈 my github stats
 
