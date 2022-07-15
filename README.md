@@ -1,4 +1,4 @@
-<h1>Dourood. I'm Saleh khafan & I ❤️💖💗💓💙💚💛💜🧡💝💟🖤❤❣💌🤎🤍 programming.</h1>
+<h1>Dourood. I'm Saleh khafan & I ❤️💖💗💓 programming.</h1>
 
 📈 my github stats
 
