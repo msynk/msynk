@@ -3,10 +3,15 @@
 
 
 #### 💬 Ask me about 
-[.NET & C#] | [Blazor] | [Typescript & Javascript]
+- .NET & C#
+- Blazor
+- Typescript & Javascript
 
 #### 📅 Hobbies 
-[Programming ❤️] | [Developing new stuff] | [Watch anime and Tv shows] | [Read manga/manhwa/manhua] | [Play videogames]
+- Programming ❤️
+- Read manga/manhwa/manhua
+- Watch anime and Tv shows
+- Play videogames
 
 ---
 
