@@ -1,8 +1,6 @@
 <h1>Hi. I'm Saleh & I ❤️💖💓 programming.</h1>
 
-follow me:
-
-[twitter](https://twitter.com/SalehYusefnejad) [linkedin](https://www.linkedin.com/in/msynk/)
+follow me on [twitter](https://twitter.com/SalehYusefnejad) | [linkedin](https://www.linkedin.com/in/msynk/)
 
 📈 my github stats
 
