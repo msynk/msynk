@@ -1,4 +1,5 @@
-<h1>Hi. I'm Saleh & I ❤️💖💓 programming.</h1>
+<h1 align="center">Hi. I'm Saleh & I ❤️💖💓 programming.</h1>
+<h3 align="center">a software developer from Iran</h3>
 
 follow me on [twitter](https://twitter.com/SalehYusefnejad) | [linkedin](https://www.linkedin.com/in/msynk/)
 
