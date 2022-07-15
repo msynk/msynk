@@ -1,6 +1,4 @@
 <h1 align="center">Hi. I'm Saleh & I ❤️💖💓 programming.</h1>
-<h3 align="center">A software developer from Iran</h3>
-
 
 #### 💬 Ask me about 
 - .NET & C#
