@@ -1,5 +1,5 @@
 <h1 align="center">Hi. I'm Saleh & I ❤️💖💓 programming.</h1>
-<h4 align="center">A software developer from Iran</h3>
+<h2 align="center">A software developer from Iran</h2>
 
 ### 💬 Ask me about
 - .NET & C#
@@ -15,6 +15,8 @@
 
 ### 💻 Current project
 - [bit platform](https://github.com/bitfoundation/bitplatform)
+
+---
 
 follow me on [twitter](https://twitter.com/SalehYusefnejad) | [linkedin](https://www.linkedin.com/in/msynk/)
 
