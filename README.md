@@ -11,8 +11,6 @@
 - Watch anime and Tv shows
 - Play videogames
 
----
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=msynk&layout=compact&theme=buefy&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="msynk" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msynk&layout=compact&theme=buefy&hide_border=true" alt="msynk" />
 </p>
