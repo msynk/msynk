@@ -1,19 +1,19 @@
 <h1 align="center">Hi. I'm Saleh & I ❤️💖💓 programming.</h1>
-<h3 align="center">a software developer from Iran</h3>
+<h4 align="center">A software developer from Iran</h3>
 
-## 💬 Ask me about
+### 💬 Ask me about
 - .NET & C#
 - Blazor
 - Typescript & Javascript
 
-## 📅 Hobbies
+### 📅 Hobbies
 - Programming ❤️
 - Developing new stuff
 - Watch anime and Tv shows
 - Read manga/manhwa/manhua
 - Play videogames
 
-## 💻 Current project
+### 💻 Current project
 - [bit platform](https://github.com/bitfoundation/bitplatform)
 
 follow me on [twitter](https://twitter.com/SalehYusefnejad) | [linkedin](https://www.linkedin.com/in/msynk/)
