@@ -2,9 +2,11 @@
 <h3 align="center">A software developer from Iran</h3>
 
 
-### 💬 Ask me about [.NET & C#] | [Blazor] | [Typescript & Javascript]
+### 💬 Ask me about 
+[.NET & C#] | [Blazor] | [Typescript & Javascript]
 
-### 📅 Hobbies [Programming ❤️] | [Developing new stuff] | [Watch anime and Tv shows] | [Read manga/manhwa/manhua] | [Play videogames]
+### 📅 Hobbies 
+[Programming ❤️] | [Developing new stuff] | [Watch anime and Tv shows] | [Read manga/manhwa/manhua] | [Play videogames]
 
 ---
 
