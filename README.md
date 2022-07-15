@@ -1,4 +1,9 @@
-### Hi there 👋
+![Metrics](/github-metrics.svg)
+![Languages](/languages.svg)
+![Habits](/habits.svg)
+![Sponsors](/sponsors.svg)
+![Starred](/starred.svg)
+![Traffic](/traffic.svg)
 
 <!--
 **msynk/msynk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
