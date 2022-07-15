@@ -28,3 +28,7 @@
 <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=msynk&bg_color=FFFFFF&color=000000&line=F85D7F&point=000000&hide_border=true" alt="msynk's Activity Graph"/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=msynk.msynk)
+
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
