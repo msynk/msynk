@@ -7,8 +7,8 @@
 - Typescript & Javascript
 
 ## 📅 Hobbies
-- programming ❤️
-- developing new stuff
+- Programming ❤️
+- Developing new stuff
 - Watch anime and Tv shows
 - Read manga/manhwa/manhua
 - Play videogames
