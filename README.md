@@ -18,4 +18,8 @@ Skyline: [2021](https://skyline.github.com/msynk/2021) | [2022](https://skyline.
 </p>
 <!-- <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=msynk&bg_color=FFFFFF&color=000000&line=F85D7F&point=000000&hide_border=true" alt="msynk's Activity Graph"/> -->
 
+
+[![image](https://img.10fastfingers.com/img/layout/logo@2x.png)](https://10fastfingers.com/user/504907/)
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=msynk.msynk)
