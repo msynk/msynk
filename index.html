@@ -10,15 +10,24 @@
     <div>
         <input />
     </div>
-    <div id="data"></div>
-    <div id="key"></div>
+    <div id="keydown"></div>
+    <div id="keyup"></div>
+    <div id="keypress"></div>
     <script>
         var input = document.querySelector('input');
-        var data = document.getElementById('data');
+        var keydown = document.getElementById('keydown');
+        var keyup = document.getElementById('keyup');
+        var keypress = document.getElementById('keypress');
 
         var _lastInputValue = '';
         input.addEventListener('keydown', e => {
-          data.textContent = `e.code:${e.code} | e.key:${e.key} | e.keyCode:${e.keyCode} | e.charCode:${e.charCode} | e.which:${e.which} | e.detail:${e.detail}`;
+          keydown.textContent = `keydown: e.code:${e.code} | e.key:${e.key} | e.keyCode:${e.keyCode} | e.charCode:${e.charCode} | e.which:${e.which} | e.detail:${e.detail}`;
+        });
+        input.addEventListener('keyup', e => {
+          keyup.textContent = `keyup: e.code:${e.code} | e.key:${e.key} | e.keyCode:${e.keyCode} | e.charCode:${e.charCode} | e.which:${e.which} | e.detail:${e.detail}`;
+        });
+        input.addEventListener('keypress', e => {
+          keypress.textContent = `keypress: e.code:${e.code} | e.key:${e.key} | e.keyCode:${e.keyCode} | e.charCode:${e.charCode} | e.which:${e.which} | e.detail:${e.detail}`;
         });
 
         // input.addEventListener('input', e => {
