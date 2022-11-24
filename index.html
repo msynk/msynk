@@ -10,23 +10,20 @@
     <div>
         <input />
     </div>
-    <div>e.code: <span id="code"></span></div>
-    <div>e.key: <span id="key"></span></div>
+    <div id="data"></div>
+    <div id="key"></div>
     <script>
         var input = document.querySelector('input');
-        var code = document.getElementById('code');
-        var key = document.getElementById('key');
+        var data = document.getElementById('data');
 
         var _lastInputValue = '';
         input.addEventListener('keydown', e => {
-          code.textContent = e.code;
-          key.textContent = e.key;
-          _lastInputValue = e.key;
+          data.textContent = `e.code:${e.code} | e.key:${e.key} | e.keyCode:${e.keyCode} | e.charCode:${e.charCode} | e.which:${e.which} | e.detail:${e.detail}`;
         });
 
-//         input.addEventListener('input', e => {
-//           input.value = _lastInputValue;
-//         })
+        // input.addEventListener('input', e => {
+        //   input.value = _lastInputValue;
+        // })
     </script>
 </body>
 </html>
