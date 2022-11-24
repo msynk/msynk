@@ -7,5 +7,26 @@
 </head>
 <body>
     <h1>msynk</h1>
+    <div>
+        <input />
+    </div>
+    <div>e.code: <span id="code"></span></div>
+    <div>e.key: <span id="key"></span></div>
+    <script>
+        var input = document.querySelector('input');
+        var code = document.getElementById('code');
+        var key = document.getElementById('key');
+
+        var _lastInputValue = '';
+        input.addEventListener('keydown', e => {
+          code.textContent = e.code;
+          key.textContent = e.key;
+          _lastInputValue = e.key;
+        });
+
+        input.addEventListener('input', e => {
+          input.value = _lastInputValue;
+        })
+    </script>
 </body>
 </html>
