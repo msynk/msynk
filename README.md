@@ -16,9 +16,10 @@ Skyline: [2021](https://skyline.github.com/msynk/2021) | [2022](https://skyline.
 [Twitter](https://twitter.com/SalehYusefnejad) | [Linkedin](https://www.linkedin.com/in/msynk)
 
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=msynk&layout=compact&theme=buefy&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=msynk&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 |
-[Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msynk&layout=compact&theme=buefy&hide_border=true")
+[Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msynk&theme=dark)
 
 
 
