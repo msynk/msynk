@@ -17,7 +17,7 @@ Skyline: [2021](https://skyline.github.com/msynk/2021) | [2022](https://skyline.
 
 
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=msynk&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=msynk&show_icons=true&count_private=true&theme=tokyonight)
 |
 [Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msynk&theme=tokyonight)
 
