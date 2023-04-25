@@ -17,7 +17,7 @@ Skyline: [2020](https://skyline.github.com/msynk/2020) | [2021](https://skyline.
 
 
 
-![GiHub Stats](https://github-readme-stats.vercel.app/api?username=msynk&show_icons=true&count_private=true&theme=tokyonight "GitHub Stats")
+![GiHub Stats](https://github-readme-stats.vercel.app/api?username=msynk&count_private=true&theme=tokyonight "GitHub Stats")
 
 
 
