@@ -1,8 +1,7 @@
 <h1 align="center">Hi. I'm Saleh & I ❤️ programming.</h1>
 
 #### 💬 Ask me about 
-- .NET & C#
-- Blazor
+- .NET, C#, Blazor
 - TypeScript & JavaScript
 
 #### 📅 Hobbies 
