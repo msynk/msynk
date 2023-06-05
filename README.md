@@ -1,4 +1,4 @@
-<h1 align="center">Hi. I'm Saleh & I ❤️ programming.</h1>
+# Hi. I'm `Saleh`
 
 #### 💬 Ask me about 
 - `.NET` `C#` `Blazor`
