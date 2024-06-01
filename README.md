@@ -6,9 +6,9 @@
 
 #### 📅 Hobbies 
 - Programming ❤️
-- Read manga/manhwa/manhua
-- Watch anime and Tv shows
-- Play videogames
+- Reading manga/manhwa/manhua
+- Watching anime and TV shows
+- Playing videogames
 
 Skyline: [2020](https://skyline.github.com/msynk/2020) | [2021](https://skyline.github.com/msynk/2021) | [2022](https://skyline.github.com/msynk/2022) | [2023](https://skyline.github.com/msynk/2023) | [2024](https://skyline.github.com/msynk/2024)
 
