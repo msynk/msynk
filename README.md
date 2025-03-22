@@ -15,9 +15,7 @@
 
 ![GiHub Stats](https://github-readme-stats.vercel.app/api?username=msynk&count_private=true&theme=tokyonight "GitHub Stats")
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=msynk&show_icons=true&count_private=true&theme=tokyonight)
-|
-[Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msynk&theme=tokyonight)
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msynk&theme=tokyonight)
 
 [![image](https://img.10fastfingers.com/img/layout/logo@2x.png)](https://10fastfingers.com/user/504907/)
 
