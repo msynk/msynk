@@ -7,7 +7,7 @@
 <br>
 
 #### 📅 Hobbies 
-- Taking care of my baby boy ❤️
+- Taking care of my baby boy (Ryan: 🧑‍💻[ryankebria](https://github.com/ryankebria)) ❤️
 - Programming
 - Reading manga/manhwa/manhua
 - Watching anime and TV shows
