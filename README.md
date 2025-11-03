@@ -1,7 +1,7 @@
 # Hi. I'm `Saleh`
 
 #### 💬 Ask me about 
-- `.NET` `C#` `Blazor`
+- `.NET`, `C#`, `Blazor`
 - `TypeScript` & `JavaScript`
 
 <br>
