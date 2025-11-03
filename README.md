@@ -4,13 +4,15 @@
 - `.NET` `C#` `Blazor`
 - `TypeScript` & `JavaScript`
 
+<br>
+
 #### 📅 Hobbies 
 - Programming ❤️
 - Reading manga/manhwa/manhua
 - Watching anime and TV shows
 - Playing video games (`World of Warcraft` mostly)
 
- <br>
+<br>
 
 [Twitter](https://twitter.com/SalehYusefnejad) | [Linkedin](https://www.linkedin.com/in/msynk)
 
