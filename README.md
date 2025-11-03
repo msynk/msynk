@@ -7,7 +7,8 @@
 <br>
 
 #### 📅 Hobbies 
-- Programming ❤️
+- Taking care of my baby boy ❤️
+- Programming
 - Reading manga/manhwa/manhua
 - Watching anime and TV shows
 - Playing video games (`World of Warcraft` mostly)
