@@ -8,14 +8,10 @@
 - Programming ❤️
 - Reading manga/manhwa/manhua
 - Watching anime and TV shows
-- Playing videogames
+- Playing video games (`World of Warcraft` mostly)
   
    
 [Twitter](https://twitter.com/SalehYusefnejad) | [Linkedin](https://www.linkedin.com/in/msynk)
-
-![GiHub Stats](https://github-readme-stats.vercel.app/api?username=msynk&count_private=true&theme=tokyonight "GitHub Stats")
-
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msynk&theme=tokyonight)
 
 [![image](https://img.10fastfingers.com/img/layout/logo@2x.png)](https://10fastfingers.com/user/504907/)
 
