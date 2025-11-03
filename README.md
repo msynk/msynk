@@ -18,7 +18,9 @@
 
 <br>
 
-[<img src="https://img.10fastfingers.com/img/layout/logo@2x.png" alt="10fastfingers" width="150" />](https://10fastfingers.com/user/504907/)
+<a href="https://10fastfingers.com/user/504907" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.10fastfingers.com/img/layout/logo@2x.png" alt="10fastfingers" width="150" />
+</a>
 
  <br>
 
